@@ -1,7 +1,5 @@
 import pyautogui as pag
 
-
-
 def press_tab(n):
     for i in range(n):
         time.sleep(0.2)
