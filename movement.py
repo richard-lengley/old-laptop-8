@@ -1,4 +1,5 @@
 import pyautogui as pag
+import time
 
 def press_tab(n):
     for i in range(n):
